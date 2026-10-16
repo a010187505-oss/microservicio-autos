@@ -1,0 +1,25 @@
+{
+  "name": "microservicio-autos",
+  "version": "1.0.0",
+  "description": "Micro servicio web que recupere un catálogo básico de autos que incluya los siguientes atributos: (Marca, Modelo, Año, Precio, Color).",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a010187505-oss/microservicio-autos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/a010187505-oss/microservicio-autos/issues"
+  },
+  "homepage": "https://github.com/a010187505-oss/microservicio-autos#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
